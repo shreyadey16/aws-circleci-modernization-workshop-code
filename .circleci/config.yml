@@ -23,4 +23,3 @@ jobs:
           path: test/
       - store_artifacts:
           path: test-results
-    
